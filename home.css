@@ -1,0 +1,21 @@
+body{
+	background-color:#AFEEEE;
+}
+#input{
+	
+	width: 350px;
+	height: auto;
+	text-align: center;
+	background:#AFEEEE;
+	
+}
+#username{
+	text-align: center;	
+}
+#password{
+	text-align: center;	
+}
+#title{
+	
+	text-align: center;
+}
